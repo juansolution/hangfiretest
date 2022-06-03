@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dHsWy1G08LlgsP8rPUianbOtYrOku4xO0BNI7sOfpHgGt1LZbWensfht9DYCWzzIuoogZ0ZbxrEGMHDOtoNoeQ==",
+  "dgSpecHash": "KrAdV6YVIG5pWntkrYqwooLPaA2NedmNPI7PBKv20m6lm3jMxTAXBPeKrbzebscSZLw9Yp7YQ3QmShRuO6yjjA==",
   "success": true,
-  "projectFilePath": "F:\\temp\\ApiNetCore\\ApiNetCore.csproj",
+  "projectFilePath": "F:\\temp\\ApiNetCore\\src\\ApiClient\\ApiNetCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

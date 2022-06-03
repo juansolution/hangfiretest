@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\temp\\ApiNetCore\\ApiNetCore.csproj": {}
+    "F:\\temp\\ApiNetCore\\src\\ApiClient\\ApiNetCore.csproj": {}
   },
   "projects": {
-    "F:\\temp\\ApiNetCore\\ApiNetCore.csproj": {
+    "F:\\temp\\ApiNetCore\\src\\ApiClient\\ApiNetCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\temp\\ApiNetCore\\ApiNetCore.csproj",
+        "projectUniqueName": "F:\\temp\\ApiNetCore\\src\\ApiClient\\ApiNetCore.csproj",
         "projectName": "ApiNetCore",
-        "projectPath": "F:\\temp\\ApiNetCore\\ApiNetCore.csproj",
+        "projectPath": "F:\\temp\\ApiNetCore\\src\\ApiClient\\ApiNetCore.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "F:\\temp\\ApiNetCore\\obj\\",
+        "outputPath": "F:\\temp\\ApiNetCore\\src\\ApiClient\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
