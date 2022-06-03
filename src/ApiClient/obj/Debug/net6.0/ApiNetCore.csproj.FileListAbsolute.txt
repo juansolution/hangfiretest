@@ -1,0 +1,7 @@
+F:\temp\ApiNetCore\src\ApiClient\obj\Debug\net6.0\ApiNetCore.csproj.AssemblyReference.cache
+F:\temp\ApiNetCore\src\ApiClient\obj\Debug\net6.0\ApiNetCore.GeneratedMSBuildEditorConfig.editorconfig
+F:\temp\ApiNetCore\src\ApiClient\obj\Debug\net6.0\ApiNetCore.AssemblyInfoInputs.cache
+F:\temp\ApiNetCore\src\ApiClient\obj\Debug\net6.0\ApiNetCore.AssemblyInfo.cs
+F:\temp\ApiNetCore\src\ApiClient\obj\Debug\net6.0\ApiNetCore.csproj.CoreCompileInputs.cache
+F:\temp\ApiNetCore\src\ApiClient\obj\Debug\net6.0\ApiNetCore.MvcApplicationPartsAssemblyInfo.cs
+F:\temp\ApiNetCore\src\ApiClient\obj\Debug\net6.0\ApiNetCore.MvcApplicationPartsAssemblyInfo.cache
